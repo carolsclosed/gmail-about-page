@@ -27,11 +27,16 @@ nav .firstbutton {
   text-decoration: none;
   color: #1a73e8;
   font-family: "Roboto";
-  font-size: 16px;
+  font-size: 14px;
   padding: 14px;
-  width: 140px;
+  width: 120px;
   height: 18px;
   margin-left: auto;
+  text-align: center;
+}
+nav .firstbutton:hover {
+  background-color: #f4f8fe;
+  cursor: pointer;
 }
 nav .secondbutton {
   text-decoration: none;
@@ -40,27 +45,36 @@ nav .secondbutton {
   border: 1px solid #e4dede;
   padding: 14px;
   border-radius: 6px;
-  width: 140px;
+  width: 120px;
   height: 18px;
   text-align: center;
+  font-size: 14px;
+}
+nav .secondbutton:hover {
+  border-color: #9bbfee;
+  background-color: #f1f3f4;
+  cursor: pointer;
 }
 nav .thirdbutton {
   text-decoration: none;
   background-color: #1a73e8;
   color: white;
   font-family: "Roboto";
-  font-size: 16px;
+  font-size: 14px;
   border: 1px solid #e4dede;
   padding: 14px;
   border-radius: 6px;
-  width: 140px;
+  width: 120px;
   height: 18px;
   text-align: center;
   margin-right: 110px;
 }
+nav .thirdbutton:hover {
+  background-color: #003c8b;
+}
 
 body h1 {
-  font-family: DM sans;
+  font-family: Roboto Flex;
   font-size: 54px;
   max-width: 400px;
   margin-top: 120px;
@@ -91,4 +105,66 @@ body .thirdbutton2 {
   height: 18px;
   text-align: center;
   margin-left: 100px;
+}
+body .thirdbutton2:hover {
+  background-color: #003c8b;
+}
+body .firstbutton2 {
+  text-decoration: none;
+  color: #1a73e8;
+  font-family: "Roboto";
+  font-size: 16px;
+  padding: 14px;
+  width: 140px;
+  height: 18px;
+  margin-left: 15px;
+}
+body .firstbutton2:hover {
+  background-color: #f4f8fe;
+  cursor: pointer;
+}
+body h2 {
+  margin-left: 100px;
+  max-width: 400px;
+  margin-top: 250px;
+  font-family: Roboto Flex;
+  font-size: 35px;
+}
+body h3 {
+  color: #1a73e8;
+  font-family: DM Sans;
+  margin-left: 100px;
+  max-width: 400px;
+}
+body .animationhover {
+  border-left: 6px solid #ddebff;
+  height: 160px;
+}
+body .animationhover:hover {
+  border-left: 6px solid #1a73e8;
+  height: 160px;
+  cursor: pointer;
+}
+body .second-img {
+  width: 670px;
+  height: 550px;
+  margin-top: -750px;
+}
+body .third-img {
+  width: 670px;
+  height: 550px;
+  margin-top: -20px;
+}
+body .second-section h2 {
+  margin-top: 80px;
+  margin-right: 230px;
+}
+body .second-section div {
+  border-right: 6px solid #09090a;
+  height: 160px;
+}
+body .second-section p {
+  margin-top: 5px;
+  margin-right: 50px;
+  max-width: 300px;
 }
