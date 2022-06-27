@@ -1,0 +1,58 @@
+* {
+  margin-top: 2px;
+}
+
+.navigation {
+  height: 40px;
+  border-bottom: black;
+}
+
+.logo {
+  font-family: "Roboto";
+  color: #5f6368;
+  font-size: 23px;
+  position: absolute;
+  left: 120px;
+  padding: 14px;
+  text-decoration: none;
+  font-family: DM Sans;
+}
+
+.firstbutton {
+  text-decoration: none;
+  color: #1a73e8;
+  font-family: "Roboto";
+  position: absolute;
+  right: 460px;
+  font-size: 16px;
+  padding: 14px;
+}
+
+.secondbutton {
+  text-decoration: none;
+  color: #1a73e8;
+  font-family: "Roboto";
+  position: absolute;
+  right: 260px;
+  font-size: 16px;
+  border: 1px solid rgb(228, 222, 222);
+  padding: 14px;
+  border-radius: 6px;
+  width: 140px;
+  text-align: center;
+}
+
+.thirdbutton {
+  text-decoration: none;
+  background-color: #1a73e8;
+  color: white;
+  font-family: "Roboto";
+  font-size: 16px;
+  position: absolute;
+  right: 70px;
+  border: 1px solid rgb(228, 222, 222);
+  padding: 14px;
+  border-radius: 6px;
+  width: 140px;
+  text-align: center;
+}
