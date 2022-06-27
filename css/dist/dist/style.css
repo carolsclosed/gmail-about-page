@@ -73,3 +73,8 @@ body p {
   font-family: Roboto Flex;
   color: #5f6368;
 }
+body .img-principal {
+  width: 670px;
+  height: 550px;
+  margin-top: -400px;
+}
