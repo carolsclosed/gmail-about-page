@@ -78,3 +78,17 @@ body .img-principal {
   height: 550px;
   margin-top: -400px;
 }
+body .thirdbutton2 {
+  text-decoration: none;
+  background-color: #1a73e8;
+  color: white;
+  font-family: "Roboto";
+  font-size: 16px;
+  border: 1px solid #e4dede;
+  padding: 14px;
+  border-radius: 6px;
+  width: 140px;
+  height: 18px;
+  text-align: center;
+  margin-left: 100px;
+}
