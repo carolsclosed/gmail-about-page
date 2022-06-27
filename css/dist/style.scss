@@ -1,0 +1,64 @@
+* {
+  margin-top: 2px;
+}
+
+nav {
+  display: flex;
+  gap: 20px;
+  height: 55px;
+  -webkit-box-shadow: 0px 11px 18px 0px #dad6d6;
+  box-shadow: 0px 11px 18px 0px #dad6d6;
+
+  .img-nav {
+    margin-left: 55px;
+    margin-top: 8px;
+  }
+
+  .logo {
+    font-family: "Roboto";
+    color: #5f6368;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: DM Sans;
+    margin-left: -14px;
+    margin-top: 11px;
+  }
+
+  .firstbutton {
+    text-decoration: none;
+    color: #1a73e8;
+    font-family: "Roboto";
+    font-size: 16px;
+    padding: 14px;
+    width: 140px;
+    height: 18px;
+    margin-left: auto;
+  }
+
+  .secondbutton {
+    text-decoration: none;
+    color: #1a73e8;
+    font-family: "Roboto";
+    border: 1px solid rgb(228, 222, 222);
+    padding: 14px;
+    border-radius: 6px;
+    width: 140px;
+    height: 18px;
+    text-align: center;
+  }
+
+  .thirdbutton {
+    text-decoration: none;
+    background-color: #1a73e8;
+    color: white;
+    font-family: "Roboto";
+    font-size: 16px;
+    border: 1px solid rgb(228, 222, 222);
+    padding: 14px;
+    border-radius: 6px;
+    width: 140px;
+    height: 18px;
+    text-align: center;
+    margin-right: 110px;
+  }
+}
