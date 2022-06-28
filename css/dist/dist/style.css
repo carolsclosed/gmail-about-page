@@ -138,33 +138,45 @@ body h3 {
 }
 body .animationhover {
   border-left: 6px solid #ddebff;
-  height: 160px;
+  height: 190px;
 }
 body .animationhover:hover {
   border-left: 6px solid #1a73e8;
-  height: 160px;
-  cursor: pointer;
+  height: 190px;
 }
-body .second-img {
+
+.second-img {
   width: 670px;
   height: 550px;
   margin-top: -750px;
 }
-body .third-img {
+
+.third-img {
   width: 670px;
   height: 550px;
   margin-top: -20px;
 }
-body .second-section h2 {
-  margin-top: 80px;
-  margin-right: 230px;
+
+.second-section h2 {
+  margin-top: -100px;
+  margin-right: 235px;
 }
-body .second-section div {
-  border-right: 6px solid #09090a;
-  height: 160px;
+.second-section div {
+  border-right: 6px solid #ddebff;
+  height: 110px;
+  margin-top: 100px;
+  position: absolute;
 }
-body .second-section p {
-  margin-top: 5px;
-  margin-right: 50px;
+.second-section div:hover {
+  border-right: 6px solid #1a73e8;
+  height: 110px;
+}
+.second-section h3 {
+  margin-top: -20px;
+  margin-right: 200px;
+}
+.second-section p {
+  margin-top: -15px;
+  margin-right: 250px;
   max-width: 300px;
 }
