@@ -150,3 +150,9 @@ body .secondaryimg1 {
   margin-top: -630px;
   margin-right: -100px;
 }
+body .secondaryimg2 {
+  width: 860px;
+  height: 650px;
+  margin-top: 130px;
+  margin-left: -50px;
+}
