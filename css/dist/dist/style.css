@@ -138,11 +138,11 @@ body h3 {
 }
 body .animationhover {
   border-left: 6px solid #ddebff;
-  height: 190px;
+  height: 160px;
 }
 body .animationhover:hover {
   border-left: 6px solid #1a73e8;
-  height: 190px;
+  height: 160px;
 }
 body .secondaryimg1 {
   width: 800px;
@@ -151,8 +151,69 @@ body .secondaryimg1 {
   margin-right: -100px;
 }
 body .secondaryimg2 {
-  width: 860px;
-  height: 650px;
+  width: 760px;
+  height: 570px;
   margin-top: 130px;
   margin-left: -50px;
+}
+body .h2section2 {
+  font-size: 43px;
+  margin-right: 130px;
+  margin-top: 220px;
+}
+body .animationNhover {
+  border-right: 6px solid #ddebff;
+  height: 130px;
+  position: absolute;
+  top: 1610px;
+  right: 0px;
+}
+body .animationNhover:hover {
+  border-right: 6px solid #1a73e8;
+  height: 130px;
+}
+body .h3section2 {
+  margin-right: 160px;
+  margin-top: 0px;
+}
+body .h3sectionn2 {
+  margin-right: 260px;
+  margin-top: 0px;
+}
+body .psection2 {
+  margin-right: 110px;
+  margin-top: 10px;
+}
+body .psectionn2 {
+  margin-right: 110px;
+  margin-top: 70px;
+}
+body .animationN2hover {
+  height: 140px;
+  border-right: 6px solid #ddebff;
+  position: absolute;
+  right: 0px;
+  top: 1750px;
+}
+body .animationN2hover:hover {
+  height: 140px;
+  border-right: #1a73e8 6px solid;
+}
+body .animationN3hover {
+  height: 140px;
+  border-right: #ddebff 6px solid;
+  position: absolute;
+  right: 0px;
+  top: 1900px;
+}
+body .animationN3hover:hover {
+  height: 140px;
+  border-right: #1a73e8 solid 6px;
+}
+body .h3sectionn23 {
+  margin-right: 230px;
+}
+body .psectionn23 {
+  margin-right: 108px;
+  margin-top: 80px;
 }

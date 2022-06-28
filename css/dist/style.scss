@@ -155,12 +155,12 @@ body {
 
   .animationhover {
     border-left: 6px solid #ddebff;
-    height: 190px;
+    height: 160px;
   }
 
   .animationhover:hover {
     border-left: 6px solid #1a73e8;
-    height: 190px;
+    height: 160px;
   }
 
   .secondaryimg1 {
@@ -170,9 +170,82 @@ body {
     margin-right: -100px;
   }
   .secondaryimg2 {
-    width: 860px;
-    height: 650px;
+    width: 760px;
+    height: 570px;
     margin-top: 130px;
     margin-left: -50px;
+  }
+
+  .h2section2 {
+    font-size: 43px;
+    margin-right: 130px;
+    margin-top: 220px;
+  }
+
+  .animationNhover {
+    border-right: 6px solid #ddebff;
+    height: 130px;
+    position: absolute;
+    top: 1610px;
+    right: 0px;
+  }
+
+  .animationNhover:hover {
+    border-right: 6px solid #1a73e8;
+    height: 130px;
+  }
+
+  .h3section2 {
+    margin-right: 160px;
+    margin-top: 0px;
+  }
+  .h3sectionn2 {
+    margin-right: 260px;
+    margin-top: 0px;
+  }
+
+  .psection2 {
+    margin-right: 110px;
+    margin-top: 10px;
+  }
+
+  .psectionn2 {
+    margin-right: 110px;
+    margin-top: 70px;
+  }
+
+  .animationN2hover {
+    height: 140px;
+    border-right: 6px solid #ddebff;
+    position: absolute;
+    right: 0px;
+    top: 1750px;
+  }
+
+  .animationN2hover:hover {
+    height: 140px;
+    border-right: #1a73e8 6px solid;
+  }
+
+  .animationN3hover {
+    height: 140px;
+    border-right: #ddebff 6px solid;
+    position: absolute;
+    right: 0px;
+    top: 1900px;
+  }
+
+  .animationN3hover:hover {
+    height: 140px;
+    border-right: #1a73e8 solid 6px;
+  }
+
+  .h3sectionn23 {
+    margin-right: 230px;
+  }
+
+  .psectionn23 {
+    margin-right: 108px;
+    margin-top: 80px;
   }
 }
